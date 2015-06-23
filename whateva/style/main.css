@@ -58,16 +58,16 @@ a {
     background: deeppink;
     display: inline-block;
     position: absolute;
-    top: -12px;
+    top: -22px;
     right: -73px;
     transform: rotate(-45deg);
-    -webkit-transform: rotate(45deg);
+    -webkit-transform: rotate(35deg);
     width: 200px;
     height: 80px;
     text-align: center;
     line-height: 102px;
     color: #fff;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 #sidebar {
